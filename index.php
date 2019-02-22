@@ -9,7 +9,7 @@
     <title>Smartapp - Task Manager & Note Taking App</title>
   </head>
   <body>
-    <h2>Workin on It...</h2>
+    <h2 class="text-center">SMARTAPP</h2>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
